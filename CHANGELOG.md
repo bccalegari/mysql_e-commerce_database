@@ -2,7 +2,7 @@
 
 Documentação do versionamento do projeto
 
-## 0.0.1 (Em progresso)
+## 0.0.1
 
 ### Atualização do readme (05/03/2023) - [5b639c8]
 
