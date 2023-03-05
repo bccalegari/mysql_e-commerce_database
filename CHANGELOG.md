@@ -3,9 +3,8 @@
 Documentação do versionamento do projeto
 
 ## 0.0.1 (Em progresso)
----
 
-### Criação do changelog (05/03/2023) - []
+### Criação do changelog (05/03/2023) - [178b3a4]
 
 - CHANGELOG.md
 
@@ -21,3 +20,4 @@ Documentação do versionamento do projeto
 
 
 [70bc1c5]: https://github.com/bccalegari/mysql_e-commerce_database/commit/70bc1c55842e29e8f948ddcb319c727bd331f378
+[178b3a4]: https://github.com/bccalegari/mysql_e-commerce_database/commit/178b3a4bf80c7a5632b70b5a1b50740bc383670f
