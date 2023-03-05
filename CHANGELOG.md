@@ -3,7 +3,6 @@
 Documentação do versionamento do projeto
 
 ## 0.0.1 (Em progresso)
----
 
 ### Criação do changelog (05/03/2023) - [178b3a4]
 
